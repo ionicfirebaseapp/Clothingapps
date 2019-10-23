@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">IONICFIREBASEAPP</h3>
 
- <a href="https://www.ionicfirebaseapp.com/products/ionic-firebase-restaurant-mobile-app"> <h3 align="center">GET IONIC V4 </h3> </a>
+ <a href="https://www.ionicfirebaseapp.com/products/ionic-firebase-restaurant-mobile-app">  </a>
 
 <p align="center">
   Marketplace for Mobile app and Backend that developed on leading Enterprise Technologies with as well as with your custom Applictaion design.
@@ -53,7 +53,7 @@ Read the [Getting started page](https://https://docs.ionicfirebaseapp.com/clothi
 ## Video Installation Guide 
 | Clothing dashboard features  | Node js clothing dashboard installation set up  |
 | ------------- | ------------- |
-| [![Node js Clothing Dashboard  INSTALLATION GUIDE](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114294/restaurant-thumbnail_dv7emx.jpg)](https://youtu.be/3e2f1hZvbuE) | [![Clothing dashboard features](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114293/Youtube-thumbnail_fzudsy.jpg)](https://youtu.be/32VuY54rGLo)|
+| [![Node js Clothing Dashboard  INSTALLATION GUIDE](https://res.cloudinary.com/dzu7tvexv/image/upload/v1571805919/tpj2qyw0y7ncssehk4xy.png"](https://youtu.be/3e2f1hZvbuE) | [![Clothing dashboard features](https://res.cloudinary.com/dzu7tvexv/image/upload/v1570098760/slxoduvc0s6wxlxdff9x.png"](https://youtu.be/32VuY54rGLo)|
 
 ## Mobile app Features
 
