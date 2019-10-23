@@ -104,7 +104,7 @@ Clothing web app is Developed with Bootstrap, angular, Ng-bootstrap and angular-
 
 ## Bugs and feature requests
 
-Have a bug or a feature request. If your problem or idea is not addressed yet, [please open a new issue](https://https://github.com/ionicfirebaseapp/Clothingapps/issues/new).
+Have a bug or a feature request. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/ionicfirebaseapp/Clothingapps/issues/new).
 
 ## Most Rated product 
 
