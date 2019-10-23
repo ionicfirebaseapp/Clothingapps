@@ -51,9 +51,9 @@ Read the [Getting started page](https://https://docs.ionicfirebaseapp.com/clothi
 </p>
 
 ## Video Installation Guide 
-| Clothing dashboard features  | Node js clothing dashboard installation set up  |
+| Ionic clothing  app  | Clothing CMS dashboard |
 | ------------- | ------------- |
-| [![Node js Clothing Dashboard  INSTALLATION GUIDE](https://res.cloudinary.com/dzu7tvexv/image/upload/v1571805919/tpj2qyw0y7ncssehk4xy.png"](https://youtu.be/3e2f1hZvbuE) | [![Clothing dashboard features](https://res.cloudinary.com/dzu7tvexv/image/upload/v1570098760/slxoduvc0s6wxlxdff9x.png"](https://youtu.be/32VuY54rGLo)|
+| [![Node js clothing dashboard installation guide](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114294/restaurant-thumbnail_dv7emx.jpg)](https://youtu.be/3e2f1hZvbuE) | [![Clothing dashboard features](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114293/Youtube-thumbnail_fzudsy.jpg)](https://youtu.be/32VuY54rGLo)|
 
 ## Mobile app Features
 
@@ -66,8 +66,8 @@ Read the [Getting started page](https://https://docs.ionicfirebaseapp.com/clothi
 7. Create a ticket for query or complaint
 8. Manage Address and Profile details
 9. Payment Integration (Braintree, PayPal, Stripe, COD)
-10. Design and Develop with Angular 5
-11. Easy to Integrate with any Rest API 
+10.Design and Develop with Angular 5
+11.Easy to Integrate with any Rest API 
 
 ## What's included
  
