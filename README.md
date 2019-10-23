@@ -53,7 +53,7 @@ Read the [Getting started page](https://docs.ionicfirebaseapp.com/clothingbacken
 ## Video Installation Guide 
 | Node js Clothing dashboard  Features  | Node js Clothing CMS Dashboard Installation |
 | ------------- | ------------- |
-| [![Node js clothing dashboard features](https://res.cloudinary.com/dzu7tvexv/image/upload/w_auto,fl_progressive,f_auto,c_scale,dpr_auto/v1566447342/vpql3enx10mema9dbp6f.jpg)](https://youtu.be/32VuY54rGLo) | [![Node js clothing dashboard installation](https://res.cloudinary.com/dzu7tvexv/image/upload/v1571805919/tpj2qyw0y7ncssehk4xy.png)](https://youtu.be/3e2f1hZvbuE)|
+| [![Node js clothing dashboard features](https://res.cloudinary.com/dzu7tvexv/image/upload/v1570098760/slxoduvc0s6wxlxdff9x.png)](https://youtu.be/32VuY54rGLo) | [![Node js clothing dashboard installation](https://res.cloudinary.com/dzu7tvexv/image/upload/v1571805919/tpj2qyw0y7ncssehk4xy.png)](https://youtu.be/3e2f1hZvbuE)|
 
 ## Mobile app Features
 
