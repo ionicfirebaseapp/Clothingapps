@@ -51,9 +51,9 @@ Read the [Getting started page](https://https://docs.ionicfirebaseapp.com/clothi
 </p>
 
 ## Video Installation Guide 
-| Ionic clothing  app  | Clothing CMS dashboard |
+| Node js Clothing dashboard  Features  | Node js Clothing CMS Dashboard Installation |
 | ------------- | ------------- |
-| [![Node js clothing dashboard installation guide](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114294/restaurant-thumbnail_dv7emx.jpg)](https://youtu.be/3e2f1hZvbuE) | [![Clothing dashboard features](https://res.cloudinary.com/dlx35qw0l/image/upload/v1568114293/Youtube-thumbnail_fzudsy.jpg)](https://youtu.be/32VuY54rGLo)|
+| [![Node js clothing dashboard features](https://res.cloudinary.com/dzu7tvexv/image/upload/v1567178911/restaurant-thumbnail_dv7emx.jpg)](https://youtu.be/32VuY54rGLo) | [![Node js clothing dashboard installation](https://res.cloudinary.com/dzu7tvexv/image/upload//v1567178911/Youtube-thumbnail_fzudsy.jpg)](https://youtu.be/3e2f1hZvbuE)|
 
 ## Mobile app Features
 
