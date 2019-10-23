@@ -120,7 +120,7 @@ Have a bug or a feature request. If your problem or idea is not addressed yet, [
 
 ## Documentation
 
-Node js clothing  documentation, included in this repo in the root directory, is built with [Node js ](https://nodejsframework.com/) and publicly hosted on ionicfirebaseapp docs Pages at <https://https://docs.ionicfirebaseapp.com/clothingbackend/>.
+Node js clothing  documentation, included in this repo in the root directory, is built with [Node js ](https://nodejsframework.com/) and publicly hosted on ionicfirebaseapp docs Pages at <https://docs.ionicfirebaseapp.com/clothingbackend/>.
 
 
 ## Copyright and license
