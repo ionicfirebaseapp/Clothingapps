@@ -11,7 +11,7 @@
 <p align="center">
   Marketplace for Mobile app and Backend that developed on leading Enterprise Technologies with as well as with your custom Applictaion design.
   <br>
-  <a href="https://https://docs.ionicfirebaseapp.com/clothingbackend/"><strong>Explore Restaurant docs »</strong></a>
+  <a href="https://docs.ionicfirebaseapp.com/clothingbackend/"><strong>Explore clothing  docs »</strong></a>
   <br>
   <br>
   </p>
@@ -36,13 +36,13 @@
 
 You can buy the node js clothing dashboard . 
 
-Buy node js clothing dashboard  from [ionicfirebaseapp](https://www.https://www.ionicfirebaseapp.com/products/backend-clothing-nodejs-app)
+Buy node js clothing dashboard  from [ionicfirebaseapp](https://www.ionicfirebaseapp.com/products/backend-clothing-nodejs-app)
 
-- [You can buy the clothing mobile app](https://www.https://www.ionicfirebaseapp.com/products/ionic-clothing-mobile-app)
+- [You can buy the clothing mobile app](https://www.ionicfirebaseapp.com/products/ionic-clothing-mobile-app)
 - Install with [npm](https://www.npmjs.com/): `npm install`
 - Open  with [web browser ](https://scotch.io/bar-talk/10-node-frameworks-to-use-in-2019): `ng serve`
 
-Read the [Getting started page](https://https://docs.ionicfirebaseapp.com/clothingbackend/) for information on node js clothing dashboard 
+Read the [Getting started page](https://docs.ionicfirebaseapp.com/clothingbackend/) for information on node js clothing dashboard 
 
 <p align="center">
   <a href="https://www.ionicfirebaseapp.com/products/ionic-clothing-mobile-app">
