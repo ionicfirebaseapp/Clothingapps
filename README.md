@@ -90,7 +90,7 @@ You can Buy the Node js  Admin Dashboard from [ionicfirebaseapp](https://www.ion
 9. Tax Setting
 10. Coupon offers and Loyalty points
 11. Many more...
-## Restaurant Web app 
+## Clothing  Web app 
 
 Clothing web app is Developed with Bootstrap, angular, Ng-bootstrap and angular-cli. and integrated with  nodeJs backend . You can check more details about the webapp.
 
